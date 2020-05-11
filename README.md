@@ -17,7 +17,7 @@ The URL will return an SVG of a randomised harmonograph with a `#000` stroke col
 
 The URL follows this pattern:
 
-api.harmonograph.art/strokeColor/backgroundColor/strokeWidth/size/animationDuration/
+api.harmonograph.art/`strokeColor`/`backgroundColor`/`strokeWidth`/`size`/`animationDuration`/
 
 | Option | Description | Default value | Type |
 | --- | --- | --- | --- |

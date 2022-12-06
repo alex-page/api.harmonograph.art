@@ -15,7 +15,7 @@
 	"devDependencies": {
 		"ava": "^3.8.1",
 		"now": "^18.0.0",
-		"xo": "^0.30.0"
+		"xo": "^0.53.1"
 	},
 	"author": {
 		"name": "Alex Page",
